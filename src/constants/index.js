@@ -218,7 +218,8 @@ const projects = [
       },
     ],
     image: uniboard,
-    url:'https://uniboard.cyclic.app/',source_code_link: 'https://github.com/zuhayrtariq/FYP',
+    url: 'https://uniboard.cyclic.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/FYP',
   },
   {
     name: 'AirBnb - Booking App',
@@ -243,7 +244,8 @@ const projects = [
       },
     ],
     image: airbnb,
-    url:'https://zuhayr-booking-app.vercel.app/',source_code_link: 'https://github.com/zuhayrtariq/airbnb-clone',
+    url: 'https://zuhayr-booking-app.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/airbnb-clone',
   },
   {
     name: 'Cinemate Movie App',
@@ -264,7 +266,8 @@ const projects = [
       },
     ],
     image: cinemate,
-    url:'https://cinemate-f2ojoomp8-zuhayrtariq.vercel.app/',source_code_link: 'https://github.com/zuhayrtariq/cinemate-app',
+    url: 'https://cinemate-f2ojoomp8-zuhayrtariq.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/cinemate-app',
   },
   {
     name: 'Nike Landing Page',
@@ -279,10 +282,10 @@ const projects = [
         name: 'TailwindCSS',
         color: 'pink-text-gradient',
       },
-     
     ],
     image: nikelanding,
-    url:'https://nike-z.vercel.app/',source_code_link: 'https://github.com/zuhayrtariq/nike-landing-page',
+    url: 'https://nike-z.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/nike-landing-page',
   },
   {
     name: 'Fitness App',
@@ -303,8 +306,30 @@ const projects = [
       },
     ],
     image: fitnessapp,
-    url:'https://fitness-app-z.vercel.app/',source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
-    
+    url: 'https://fitness-app-z.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
+  },
+  {
+    name: 'Fitness App',
+    description:
+      'A Fitness App that tells you different exercises for different parts of the body. This was built using ReactJS, TailwindCSS and ExerciseDB API.',
+    tags: [
+      {
+        name: 'ReactJS',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'TailwindCSS',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'RapidAPI',
+        color: 'text-white',
+      },
+    ],
+    image: fitnessapp,
+    url: 'https://fitness-app-z.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
   },
 ];
 
