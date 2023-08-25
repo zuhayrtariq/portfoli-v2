@@ -156,18 +156,18 @@ const experiences = [
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
-  {
-    title: 'Graduate Trainee Officer',
-    company_name: 'Prime Pakistan',
-    icon: prime,
-    iconBg: '#E6DEDD',
-    date: 'July 2023 - Present',
-    points: [
-      'Working at a GTO',
-      'Looking after day to day activities in the IT Department',
-      'Dealing with technical support, providing aid to members of the team and managers as required.',
-    ],
-  },
+  // {
+  //   title: 'Graduate Trainee Officer',
+  //   company_name: 'Prime Pakistan',
+  //   icon: prime,
+  //   iconBg: '#E6DEDD',
+  //   date: 'July 2023 - Present',
+  //   points: [
+  //     'Working at a GTO',
+  //     'Looking after day to day activities in the IT Department',
+  //     'Dealing with technical support, providing aid to members of the team and managers as required.',
+  //   ],
+  // },
 ];
 
 const testimonials = [
