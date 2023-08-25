@@ -1,6 +1,6 @@
 # 3D Portfolio Website
 
-![Portfolio](https://i.ibb.co/4tSs0Sj/my-portfolio.png)
+![Portfolio](https://i.ibb.co/5GttktD/my-portfolio.png)
 
 ## About
 
