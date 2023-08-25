@@ -329,8 +329,8 @@ const projects = [
       },
     ],
     image: gamersden,
-    url: 'https://fitness-app-z.vercel.app/',
-    source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
+    url: 'https://gamers-den-z.vercel.app/',
+    source_code_link: 'https://github.com/zuhayrtariq/games-list-app',
   },
 ];
 
