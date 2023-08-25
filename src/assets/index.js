@@ -29,9 +29,12 @@ import ezsolvers from './company/ezsolvers.png';
 import uniboard from './uniboard.png';
 import airbnb from './airbnb.png';
 import cinemate from './cinemate.png';
-import nikelanding from './nike-landing.png'
-import fitnessapp from './fitness-app.png'
-export {fitnessapp,
+import nikelanding from './nike-landing.png';
+import fitnessapp from './fitness-app.png';
+import gamersden from './gamers-den.png';
+export {
+  fitnessapp,
+  gamersden,
   nikelanding,
   logo,
   backend,

@@ -25,6 +25,7 @@ import {
   cinemate,
   nikelanding,
   fitnessapp,
+  gamersden,
 } from '../assets';
 
 export const navLinks = [
@@ -310,9 +311,9 @@ const projects = [
     source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
   },
   {
-    name: 'Fitness App',
+    name: 'Gamers Den App',
     description:
-      'A Fitness App that tells you different exercises for different parts of the body. This was built using ReactJS, TailwindCSS and ExerciseDB API.',
+      'A Web App that provides information about different games which can be also filtered by their genres. This was built using ReactJS, TailwindCSS and RAWG API.',
     tags: [
       {
         name: 'ReactJS',
@@ -327,7 +328,7 @@ const projects = [
         color: 'text-white',
       },
     ],
-    image: fitnessapp,
+    image: gamersden,
     url: 'https://fitness-app-z.vercel.app/',
     source_code_link: 'https://github.com/zuhayrtariq/Fitness-App',
   },

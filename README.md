@@ -1,4 +1,4 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
+# 3D Portfolio Website
 
 ![Portfolio](https://i.ibb.co/4tSs0Sj/my-portfolio.png)
 
