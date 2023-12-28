@@ -14,23 +14,26 @@ const ProjectCard = ({
   description,
   tags,
   image,
-  source_code_link,url
+  source_code_link,
+  url,
 }) => {
   return (
     <motion.div variants={fadeIn('up', 'spring', index * 0.5, 0.75)}>
+      {console.log('WORKE')}
       <Tilt
         options={{
           max: 45,
           scale: 1,
           speed: 450,
         }}
-        className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full  ' >
-        <div className='relative w-full h-[230px] cursor-pointer' onClick={() => window.open(url, '_blank')}>
+        className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full  '>
+        <div
+          className='relative w-full h-[230px] cursor-pointer'
+          onClick={() => window.open(url, '_blank')}>
           <img
             src={image}
             alt='project_image'
             className='w-full h-full object-cover rounded-2xl'
-            
           />
 
           <div className='absolute inset-0 flex justify-end m-3 card-img_hover'>
@@ -90,7 +93,7 @@ const Works = () => {
       <div className='mt-20 flex flex-wrap gap-7 '>
         {projects.map((project, index) => (
           <div key={index}>
-            <ProjectCard key={`project-${index}`} index={index} {...project}  />
+            <ProjectCard key={`project-${index}`} index={index} {...project} />
           </div>
         ))}
       </div>

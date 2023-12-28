@@ -156,6 +156,19 @@ const experiences = [
       'Participating in code reviews and providing constructive feedback to other developers.',
     ],
   },
+  {
+    title: 'Graduate Trainee ICT',
+    company_name: 'Prime Pakistan',
+    icon: prime,
+    iconBg: 'white',
+    date: 'Aug 2023 - Present',
+    points: [
+      'Working in the IT Compliance and Governance and Business Application Development department. ',
+      'Worked on doing research and writing policies for the company including Cyber Security Policy, Recourse Management Policy.',
+      'Implementing responsive design and ensuring cross-browser compatibility.',
+      'Developed a Contract Management Tool that keeps progress of active contracts, call-offs, requisitions and generates automated email alerts.',
+    ],
+  },
   // {
   //   title: 'Graduate Trainee Officer',
   //   company_name: 'Prime Pakistan',
